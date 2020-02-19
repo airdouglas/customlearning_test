@@ -1,0 +1,237 @@
+{
+    "Id": "ffc5bdc9-3873-4f0c-944e-64b9722120de",
+    "Title": "Introduction to SharePoint",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
+    "Description": "Introduction to SharePoint",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "ddc2bad5-6e80-4ba2-b422-d3d56608b517",
+        "fad26d31-a6a5-4fc5-abc3-26d3c849b407"
+    ]
+}
+{
+    "Id": "fabe6bfb-7997-497f-b362-183e1c6ca8de",
+    "Title": "Planning checklist",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
+    "Description": "Planning checklist",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "1aefceb0-488c-4bd6-8f99-07905e675c12",
+        "27528b54-a805-487b-9c7b-f8bba93e8967",
+        "ef21149a-d1fa-4738-812c-443cf96eb404"
+    ]
+}
+{
+    "Id": "08ab5ae4-048a-4f35-8864-e736f6779676",
+    "Title": "Learn about SharePoint site types",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
+    "Description": "Learn about SharePoint site types\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "d5b4bf8a-7125-4fbe-afc5-808dd37f9083",
+        "6aa1ca4f-c9d8-473b-8dff-8a745ad3cc5f",
+        "bf8dbce0-e41a-48c5-b645-d6930ac1868e"
+    ]
+}
+{
+    "Id": "1617d89e-e552-43cb-b6e0-f0039b7b89cc",
+    "Title": "Learn about managing content and data",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
+    "Description": "Learn about managing content and data\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "464f0607-a07c-4068-8117-29d7fa09e07d",
+        "a2c2fc13-7229-4621-a4f9-93bc6e3a3a11",
+        "c5dae9e7-1f38-4f9a-991c-0256a9c93877",
+        "aaeed5cf-e5a4-41f2-8daf-10622ce73bad",
+        "6f4a4496-6739-429c-bbf2-2a1e4edfeecf",
+        "ea496cb0-0ecd-462c-8495-baf3b3894b33"
+    ]
+}
+{
+    "Id": "613ab791-83de-4629-a254-dbea798073a5",
+    "Title": "Create and customize your site",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "35d96c14-6269-4cdf-8ac1-2944bb278860",
+    "Description": "Create and customize your site\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "ba22fd90-52a3-455f-a338-9facea0c4c55",
+        "d3f6c064-9f3e-49a2-a281-496037fd80f9",
+        "1c43aed8-c263-4a08-bd45-ecac624d1f77",
+        "ae946936-7b3d-40ef-a81f-aa7c55e6350c",
+        "d4721d80-bfb5-4e95-a9b7-5c674b047ba0"
+    ]
+}
+{
+    "Id": "0e151c1a-44cb-437c-8c85-92f4bbc83740",
+    "Title": "Upload and organize site content",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "35d96c14-6269-4cdf-8ac1-2944bb278860",
+    "Description": "Upload and organize site content\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "6d607b47-5d6a-4147-886f-eb9192b11646",
+        "ac8eea1b-f30c-40b7-a797-4cbc21eee912",
+        "e6369c79-060b-481e-96de-96084e6bff5c",
+        "db3c2a4e-52e2-4ab5-aaa0-503c5b43b61f",
+        "2f179075-9ba6-4ca7-bbbc-e091087e0586",
+        "4cdbddd0-3bee-4d78-b158-68202354dbb3"
+    ]
+}
+{
+    "Id": "6be8e21b-c070-4305-a3d1-996569adcfbe",
+    "Title": "Share your site with others",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "663876d2-6a08-4815-ab0f-796266132301",
+    "Description": "Share your site with others\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "b537f282-bdfb-46d3-b2b1-0811eb9dd7f5"
+    ]
+}
+{
+    "Id": "a7c54855-a1ca-4532-8ea6-2920c754d0dd",
+    "Title": "Measure and maintain ",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "6be8e21b-c070-4305-a3d1-996569adcfbe",
+    "Description": "Measure and maintain \n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "b07af39c-4f53-41ea-9cc5-124394c8f33c",
+        "abc82ff3-4a01-4745-8875-db5c1fbde065",
+        "b2126761-9c6d-472e-81eb-46385e9d1244"
+    ]
+}
+{
+    "Id": "43cfd210-81aa-436d-b59e-62c162d322dd",
+    "Title": "Make your site collaborative",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "4f65a4f2-c43a-415b-b576-13744eb618b2",
+    "Description": "Make your site collaborative\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "ba4763b1-c6fd-4d07-b15e-b9d989aca4d4",
+        "7654fa7a-e457-456a-b873-7ec9c1df5b16",
+        "bc104cd2-0e00-4c09-933b-12d1144c0c20",
+        "d37c84a0-3bcf-414b-a90c-cb0a75f6ab4e",
+        "c6065faa-56e7-4d17-9b6e-4f085f462b97"
+    ]
+}
+{
+    "Id": "611e2795-8b5f-4376-906c-8fb5647f6a47",
+    "Title": "Make your site engaging",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "4f65a4f2-c43a-415b-b576-13744eb618b2",
+    "Description": "Make your site engaging\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "c6065faa-56e7-4d17-9b6e-4f085f462b97",
+        "4a95311f-9932-40e7-b37f-0a75ea659347",
+        "5404c3fb-6d95-40f5-9ec1-4257e44876af",
+        "78421ccf-47e0-4246-bb12-8d921ac55074"
+    ]
+}
+{
+    "Id": "83094178-4bb4-493d-add8-6587e3ed8068",
+    "Title": "Make your site personal",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "4f65a4f2-c43a-415b-b576-13744eb618b2",
+    "Description": "Make your site engaging\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "f72f3371-7291-445b-bd75-2d7ec9ebe683",
+        "ca358801-cd6d-49a3-8cab-33ed79a6569f",
+        "ca358801-cd6d-49a3-8cab-33ed79a6569f",
+        "f7a0d86f-d682-4c6f-b5ee-8c4be346524d",
+        "5c0c5116-8959-499d-8613-a48d0f5ffeee",
+        "3f433c2f-d189-4a05-8c83-3714d9099dfa"
+    ]
+}
+{
+    "Id": "1c8af8c7-9e8e-4f45-8fee-b60f046f3ef6",
+    "Title": "Make your site mobile",
+    "Image": "https://pnp.github.io/custom-learning-office-365/learningpathways/v3/images/playlists/playlist_bw.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "244c1424-e093-4cef-8b08-53e239973dba",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "CatId": "663876d2-6a08-4815-ab0f-796266132301",
+    "Description": "Make your site mobile\n",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "d2c17d0d-2a23-4f47-9c4b-3cc8a6d777a3"
+    ]
+}

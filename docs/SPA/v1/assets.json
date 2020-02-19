@@ -1,0 +1,495 @@
+{
+    "Id": "ddc2bad5-6e80-4ba2-b422-d3d56608b517",
+    "Title": "Video: What is SharePoint Online?",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/video-what-is-sharepoint-online-c17b6824-cc22-478f-8757-497cc6b57121?wt.mc_id=otc_sharepoint",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "fad26d31-a6a5-4fc5-abc3-26d3c849b407",
+    "Title": "Ways to work with SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/get-inspired-with-sharepoint-17688238-3285-47cf-b8c7-cba3764acbdf?ui=en-US&rs=en-US&ad=US",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "1aefceb0-488c-4bd6-8f99-07905e675c12",
+    "Title": "Plan your SharePoint site - get started",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Plan-your-SharePoint-site-35d9adfe-d5cc-462f-a63a-bae7f2529182\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "27528b54-a805-487b-9c7b-f8bba93e8967",
+    "Title": "Plan your SharePoint site - planning basics",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Plan-your-SharePoint-site-adfdd689-235f-4edb-bdf7-60eddeb78a45\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ef21149a-d1fa-4738-812c-443cf96eb404",
+    "Title": "Plan your SharePoint site - design fundamentals",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Plan-your-SharePoint-site-21761aac-f7f7-4499-b0ca-cf283477c32f\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "d5b4bf8a-7125-4fbe-afc5-808dd37f9083",
+    "Title": "Video: Create a team or communication site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/video-create-a-team-or-communication-site-551e190a-8fbe-47ae-a88a-798b443c46b1?wt.mc_id=otc_sharepoint\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "6aa1ca4f-c9d8-473b-8dff-8a745ad3cc5f",
+    "Title": "What is a SharePoint hub site?",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "bf8dbce0-e41a-48c5-b645-d6930ac1868e",
+    "Title": "Using web parts on SharePoint pages",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/using-web-parts-on-sharepoint-pages-336e8e92-3e2d-4298-ae01-d404bbe751e0?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "464f0607-a07c-4068-8117-29d7fa09e07d",
+    "Title": "Video: Create a page",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/video-create-a-page-31bcb145-bcec-4b67-9697-5243e73d085e?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "a2c2fc13-7229-4621-a4f9-93bc6e3a3a11",
+    "Title": "What is a document library?",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/What-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "c5dae9e7-1f38-4f9a-991c-0256a9c93877",
+    "Title": "Video: Introduction to lists",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Video-Introduction-to-lists-1D0B0500-BAA0-4344-BDCB-7E1AEA84AD11?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "aaeed5cf-e5a4-41f2-8daf-10622ce73bad",
+    "Title": "Document collaboration and co-authoring",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/document-collaboration-and-co-authoring-ee1509b4-1f6e-401e-b04a-782d26f564a4?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "6f4a4496-6739-429c-bbf2-2a1e4edfeecf",
+    "Title": "Overview: best practices for managing how people use your site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Overview-best-practices-for-managing-how-people-use-your-team-site-95e83c3d-e1b0-4aae-9d08-e94dcaa4942e?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ea496cb0-0ecd-462c-8495-baf3b3894b33",
+    "Title": "Make your SharePoint site accessible to people with disabilities",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/make-your-sharepoint-site-accessible-to-people-with-disabilities-53707eb5-b7b8-4ee0-ae82-9d4d916f7fe1?embed=true&ns=trainingservices&version=3\n\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ba22fd90-52a3-455f-a338-9facea0c4c55",
+    "Title": "Create a Communication site in SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "d3f6c064-9f3e-49a2-a281-496037fd80f9",
+    "Title": "Create a Team site in SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "1c43aed8-c263-4a08-bd45-ecac624d1f77",
+    "Title": "Associate a SharePoint site with a hub",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ae946936-7b3d-40ef-a81f-aa7c55e6350c",
+    "Title": "Customize the navigation on your SharePoint site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Customize-the-navigation-on-your-SharePoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "d4721d80-bfb5-4e95-a9b7-5c674b047ba0",
+    "Title": "Customize your SharePoint site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b?embed=true&ns=trainingservices&version=3",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "6d607b47-5d6a-4147-886f-eb9192b11646",
+    "Title": "Create a document library in SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/Create-a-document-library-in-SharePoint-306728fe-0325-4b28-b60d-f902e1d75939?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ac8eea1b-f30c-40b7-a797-4cbc21eee912",
+    "Title": "Create a list in SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Create-a-list-in-SharePoint-0D397414-D95F-41EB-ADDD-5E6EFF41B083?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "e6369c79-060b-481e-96de-96084e6bff5c",
+    "Title": "Add texts and tables to your page",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Add-text-and-tables-to-your-page-with-the-Text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "db3c2a4e-52e2-4ab5-aaa0-503c5b43b61f",
+    "Title": "Add content to your page using the Embed web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/add-content-to-your-page-using-the-embed-web-part-721f3b2f-437f-45ef-ac4e-df29dba74de8?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "2f179075-9ba6-4ca7-bbbc-e091087e0586",
+    "Title": "Use the image web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-Image-web-part-A63B335B-AD0A-4954-A65D-33C6AF68BEB2?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "4cdbddd0-3bee-4d78-b158-68202354dbb3",
+    "Title": "Use the News web part on a SharePoint page",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-News-web-part-on-a-SharePoint-page-C2DCEE50-F5D7-434B-8CB9-A7FEEFD9F165?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "b537f282-bdfb-46d3-b2b1-0811eb9dd7f5",
+    "Title": "Share a site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/share-a-site-958771a8-d041-4eb8-b51c-afea2eae3658?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "b07af39c-4f53-41ea-9cc5-124394c8f33c",
+    "Title": "Manage your SharePoint site settings",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/manage-your-sharepoint-site-settings-8376034d-d0c7-446e-9178-6ab51c58df42?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "abc82ff3-4a01-4745-8875-db5c1fbde065",
+    "Title": "View usage data for your SharePoint site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "b2126761-9c6d-472e-81eb-46385e9d1244",
+    "Title": "Delete a SharePoint site or subsite",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ba4763b1-c6fd-4d07-b15e-b9d989aca4d4",
+    "Title": "Collaborating with Teams, SharePoint, and OneDrive",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/collaborating-with-teams-sharepoint-and-onedrive-9ea6aa07-6e5e-4917-9267-d4d361da3dea?ui=en-US&rs=en-US&ad=US\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "7654fa7a-e457-456a-b873-7ec9c1df5b16",
+    "Title": "Create a Microsoft Team from SharePoint",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/create-a-microsoft-team-from-sharepoint-545973b6-c38f-426a-b2b6-16405a561628?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "bc104cd2-0e00-4c09-933b-12d1144c0c20",
+    "Title": "Add a SharePoint page or list to a channel in Teams",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/add-a-sharepoint-page-or-list-to-a-channel-in-teams-131edef1-455f-4c67-a8ce-efa2ebf25f0b?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "d37c84a0-3bcf-414b-a90c-cb0a75f6ab4e",
+    "Title": "Use Microsoft Planner on your SharePoint site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/use-microsoft-planner-on-your-sharepoint-site-73040e0a-560e-41a0-b520-47c1a3bab3cb?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "c6065faa-56e7-4d17-9b6e-4f085f462b97",
+    "Title": "Use the Planner web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-Planner-web-part-a1e4ada8-8817-4e57-8e65-1bf546808843?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "c6065faa-56e7-4d17-9b6e-4f085f462b97",
+    "Title": "Video: What is Yammer?",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Video-What-is-Yammer-1b0f3b3e-89ee-4b66-aac5-30def12f287c?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "4a95311f-9932-40e7-b37f-0a75ea659347",
+    "Title": "Use the Yammer web parts in SharePoint Online",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "5404c3fb-6d95-40f5-9ec1-4257e44876af",
+    "Title": "Microsoft Stream: Your company's video portal",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Microsoft-Stream-Your-company-s-video-portal-c3240bd5-5f80-4fd0-a37d-7a3275605f3a?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "78421ccf-47e0-4246-bb12-8d921ac55074",
+    "Title": "Use the Stream web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-Stream-web-part-B97FA87C-1337-4271-A059-17F0D2B26E8B?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "f72f3371-7291-445b-bd75-2d7ec9ebe683",
+    "Title": "Overview of Audience Targeting in Modern SharePoint sites",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/overview-of-audience-targeting-in-modern-sharepoint-sites-68113d1b-be99-4d4c-a61c-73b087f48a81?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "ca358801-cd6d-49a3-8cab-33ed79a6569f",
+    "Title": "Target files, news and pages to specific audiences",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/target-files-news-and-pages-to-specific-audiences-33d84cb6-14ed-4e53-a426-74c38ea32293?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "98905f6c-65ff-4bda-984c-e7a690b6707c",
+    "Title": "Create and share news on your SharePoint sites",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/create-and-share-news-on-your-sharepoint-sites-495f8f1a-3bef-4045-b33a-55e5abe7aed7?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "f7a0d86f-d682-4c6f-b5ee-8c4be346524d",
+    "Title": "Use the Highlighted content web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-Highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "5c0c5116-8959-499d-8613-a48d0f5ffeee",
+    "Title": "Use the Recent documents web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/use-the-recent-documents-web-part-8aa8c0f2-d2e3-43f9-90f5-fd6ddf0669c3?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "3f433c2f-d189-4a05-8c83-3714d9099dfa",
+    "Title": "Use the Sites web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Use-the-Sites-web-part-93cbd17b-0bf8-4355-9f32-cc90e0443e6d?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
+{
+    "Id": "d2c17d0d-2a23-4f47-9c4b-3cc8a6d777a3",
+    "Title": "Video: Stay connected using the SharePoint mobile app",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/article/Video-Stay-connected-with-the-SharePoint-mobile-app-92b93131-fbef-4894-8ba2-2fdfa90c5b32?embed=true&ns=trainingservices&version=3\n",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Tenant",
+    "StatusTagId": "",
+    "StatusNote": ""
+}
